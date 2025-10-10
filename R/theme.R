@@ -115,7 +115,7 @@ forest_theme <- function(base_size = 12,
                          footnote_parse = TRUE,
                          # Title
                          title_just = c("left", "right", "center"),
-                         title_gp = gpar(cex = 1.2, fontface = "bold", col = "black", fontfamily = base_family),
+                         title_gp = gpar(fontsize = base_size, cex = 1.2, fontface = "bold", col = "black", fontfamily = base_family),
                          # Arrow
                          arrow_type = c("open", "closed"),
                          arrow_label_just = c("start", "end"),
