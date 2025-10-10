@@ -281,6 +281,6 @@
 <text x='405.05' y='473.90' style='font-size: 10.00px; font-family: sans;' textLength='75.04px' lengthAdjust='spacingAndGlyphs'>Treatment Better</text>
 <line x1='491.21' y1='462.22' x2='405.05' y2='462.22' style='stroke-width: 0.45;' />
 <polyline points='488.09,464.02 491.21,462.22 488.09,460.42 ' style='stroke-width: 0.45;' />
-<text x='360.00' y='109.02' text-anchor='middle' style='font-size: 14.40px; font-weight: bold; fill: #FF0000; font-family: sans;' textLength='80.02px' lengthAdjust='spacingAndGlyphs'>This is a title</text>
+<text x='360.00' y='108.19' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; fill: #FF0000; font-family: sans;' textLength='66.69px' lengthAdjust='spacingAndGlyphs'>This is a title</text>
 </g>
 </svg>
